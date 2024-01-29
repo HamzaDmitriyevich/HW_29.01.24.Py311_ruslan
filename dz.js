@@ -21,3 +21,5 @@ class vos{
     
 }
 
+
+//setTimeout нагуглил.
